@@ -53,6 +53,6 @@ Here is a **concise but clear** version:
 
 This project successfully developed an XGBoost-based regression model to predict used-car prices in Saudi Arabia. The tuned model achieved a **MAPE of ~19%**, indicating reliable accuracy for practical pricing support. Feature importance analysis highlights **`Make_Tier`** as the strongest driver of price variation.
 
-Cost-benefit evaluation shows that using the model can reduce potential losses by **4.8M SAR (50.43%)**, demonstrating clear financial value. Overall, the model provides an effective data-driven tool to support more accurate pricing, improve market transparency, and enhance business performance for used-car transactions in Saudi Arabia.
+Cost-benefit evaluation shows that using the model can reduce potential losses by **10.5 M SAR**, demonstrating clear financial value. Overall, the model provides an effective data-driven tool to support more accurate pricing, improve market transparency, and enhance business performance for used-car transactions in Saudi Arabia.
 
 ---
