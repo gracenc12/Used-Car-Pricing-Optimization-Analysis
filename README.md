@@ -18,7 +18,7 @@ To stay competitive, the business needs a data-driven pricing model that provide
 ## **Goals**
 
 * Build a machine learning model to predict used-car prices and support optimal, transparent pricing.
-* Identify key factors affecting vehicle prices to support strategic decision-making.
+* Identify key factors affecting car prices to support strategic decision-making.
 
 ## **Analytical Approach**
 
