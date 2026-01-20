@@ -45,6 +45,26 @@ This project uses **MAPE** and **MAE**, with MAPE as the primary metric:
 * **MAPE:** Average percentage error relative to actual values.
 * **MAE:** Average absolute difference between predicted and actual prices.
 
+## Tools & Libraries
+
+- **Python**: Data cleaning, preprocessing, EDA  
+- **Pandas, Numpy, Scikit-Learn**: Python Libraries
+- **Matplotlib, Seaborn**: Visualization
+
+## Output (Model Results & Insights)
+
+The machine learning modeling process evaluated several regression algorithms to identify the most accurate approach for predicting used-car prices in Saudi Arabia. After hyperparameter tuning and performance comparison, XGBoost Regressor emerged as the best-performing model.
+- Model Performance: MAPE: ~19% and MAE: ~11,832 SAR
+These results indicate that the model can predict used-car prices with reasonably low error, making it suitable for real-world pricing recommendations on a digital automotive platform.
+
+## Key Drivers of Used-Car Prices
+
+Feature importance analysis reveals that the following variables have the strongest influence on price prediction: Brand Tier, suggesting that brand perception and market positioning play a major role in determining used-car value in Saudi Arabia.
+
+## Business Impact Simulation
+
+A cost-benefit analysis comparing actual listing prices with model-recommended prices shows that adopting the model could potentially reduce pricing inefficiencies and negotiation gaps. The simulation estimates a potential loss reduction of approximately 10.5 million SAR, highlighting the strong financial value of implementing a data-driven pricing strategy.
+
 ---
 
 ## **Conclusion**
