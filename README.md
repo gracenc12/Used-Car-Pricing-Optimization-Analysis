@@ -1,6 +1,5 @@
-# Used-Car-Pricing-Optimization-Analysis
-Used Car Pricing Optimization: Predicting Used Cars Price using Machine Learning Model
-
+# Used Cars Pricing Strategy Optimization Analysis for Saudi Arabia Digital Platform Company
+Used Cars Pricing Strategy Optimization: Predicting Used Cars Price with Machine Learning
 ---
 
 ## **Business Context**
