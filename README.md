@@ -45,11 +45,11 @@ This project uses **MAPE** and **MAE**, with MAPE as the primary metric:
 * **MAPE:** Average percentage error relative to actual values.
 * **MAE:** Average absolute difference between predicted and actual prices.
 
-## Tools
+## Tools (Tech Stack)
 
 - **Python**: Data cleaning, preprocessing, EDA  
-- **Pandas, Numpy, Scikit-Learn**: Python Libraries
-- **Matplotlib, Seaborn**: Visualization
+- **Pandas, Numpy, Scikit-Learn**: Python Libraries for Data Analysis and Machine Learning Modelling
+- **Matplotlib, Seaborn**: Python Libraries for Data Visualization
 
 ## Output (Model Results & Insights)
 
